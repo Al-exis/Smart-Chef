@@ -41,7 +41,7 @@ Main features:
 * Real-time communication with the device
 * Feedback such as: "increase/decrease temperature", "give a stir" or "food is burning"
 
-The early prototype was developed for Android with Unity game engine and featured one full recipe. It is already available for feedback on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef).
+The early prototype was developed with Unity game engine and featured one full recipe. The Android version is already available for feedback on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef).
 
 <p align="center">
 	<img src="doc/App_ui_2.png" height="400">
