@@ -37,7 +37,7 @@ Early prototype:
 Main features:
 * Various recipes (levels) accessed on a remote database
 * Online account management
-* Score and achievments sharing with friends
+* Score and achievements sharing with friends
 * Real-time communication with the device
 * Feedback such as: "increase/decrease temperature", "give a stir" or "food is burning"
 
